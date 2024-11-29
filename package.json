@@ -4,7 +4,9 @@
   "main": "names.js",
   "scripts": {
     "start": "node test.js",
-    "dev": "node --watch test.js"
+    "dev": "node --watch test.js",
+    "start-app": "node app.js",
+    "dev-app": "node --watch app.js"
   },
   "author": "",
   "license": "ISC",
