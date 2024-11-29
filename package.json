@@ -1,0 +1,12 @@
+{
+  "name": "commonjs-modules",
+  "version": "1.0.0",
+  "main": "names.js",
+  "scripts": {
+    "start": "node test.js",
+    "dev": "node --watch test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
